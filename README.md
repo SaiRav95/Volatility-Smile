@@ -1,5 +1,5 @@
 ## Volatility-Smile
-The notebook contains the Volatility smile. <br />
+The notebook contains the Volatility Smile. <br />
 <br />
 I wanted to  prove that Black Scholes assumption of Implied Volatility is wrong by plotting the graph between Implied Volatility and Strike Price. <br />
 <br />
