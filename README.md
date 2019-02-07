@@ -15,5 +15,5 @@ I cross checked by using Black - Scholes formula by using the Implied Volatility
 <br />
 The stock chosen was SBIN which is State Bank of India. I chose the Call Option data. <br />
 
-If you find anything wrong or have any doubts please be free to contact me sairam.ravuri@stonybrook.edu
+If you have any query please be free to contact me sairam.ravuri@stonybrook.edu
 
