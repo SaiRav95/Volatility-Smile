@@ -4,8 +4,8 @@ The notebook contains the Volatility smile. <br />
 I wanted to  prove that Black Scholes assumption of Implied Volatility is wrong by plotting the graph between Implied Volatility and Strike Price. <br />
 <br />
 I calculated the Implied Volatility in 3 ways: <br />
-1) **Newton - Raphson Method** <br />
-2) **Bisection Method** <br />
+1) **Newton - Raphson Method**. <br />
+2) **Bisection Method**. <br />
 3) I used the **Mibian** package to calculate the Implied Volatility. <br />
 <br />
 I found that Newton - Raphson was the best approximation in all the 3. <br />
