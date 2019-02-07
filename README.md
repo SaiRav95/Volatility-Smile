@@ -11,7 +11,7 @@ I calculated the Implied Volatility in 3 ways: <br />
 I found that Newton - Raphson was the best approximation in all the 3. <br />
 
 I cross checked by using Black - Scholes formula by using the Implied Volatility obtained from Newton - Raphson. It had a worst approximation of error 10^(-5) and the best approximation to be having an error of 10^(-13).
-<br/ >
+<br />
 
 The stock chosen was SBIN which is State Bank of India. I chose the Call Option data. <br />
 
