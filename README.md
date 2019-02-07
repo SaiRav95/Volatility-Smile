@@ -1,6 +1,6 @@
 ## Volatility-Smile
-The notebook contains the Volatility Smile. <br />
-<br />
+
+
 **Objective:** To prove that Black-Scholes assumption of constant Implied Volatility is wrong by plotting the graph between Implied Volatility and Strike Price. The resulting graph is in the shape of a smile. <br />
 <br />
 I calculated the Implied Volatility in 3 ways: <br />
@@ -14,6 +14,8 @@ I observed it by using the Implied Volatility in Black-Scholes formula obtained 
 <br />
 <br />
 The stock chosen was SBIN which is State Bank of India. I chose the Call Option data. <br />
+<br />
+All the codes are provided in the **VolatilitySmile.ipynb** <br />
 <br />
 If you have any query please be free to contact me sairam.ravuri@stonybrook.edu
 
