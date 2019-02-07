@@ -14,6 +14,6 @@ I observed it by using the Implied Volatility in Black-Scholes formula obtained 
 <br />
 <br />
 The stock chosen was SBIN which is State Bank of India. I chose the Call Option data. <br />
-
+<br />
 If you have any query please be free to contact me sairam.ravuri@stonybrook.edu
 
