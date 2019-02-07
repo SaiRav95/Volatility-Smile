@@ -9,7 +9,7 @@ I calculated the Implied Volatility in 3 ways: <br />
 3) I used the **Mibian** package to calculate the Implied Volatility. <br />
 <br />
 I found that Newton - Raphson was the best approximation in all the 3. <br />
-
+<br />
 I cross checked by using Black - Scholes formula by using the Implied Volatility obtained from Newton - Raphson. It had a worst approximation of error 10^(-5) and the best approximation to be having an error of 10^(-13).
 <br />
 
